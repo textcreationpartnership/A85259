@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Friendly advice in the spirit of love unto believing parents, and their tender off-spring in relation to their Christian education. By J.F. and R.S.</title>
+            <author>Field, John, 1652-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85259</idno>
+            <idno type="STC">Wing F864</idno>
+            <idno type="STC">ESTC R177042</idno>
+            <idno type="EEBO-CITATION">45789306</idno>
+            <idno type="OCLC">ocm 45789306</idno>
+            <idno type="VID">172615</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85259)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172615)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2641:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Friendly advice in the spirit of love unto believing parents, and their tender off-spring in relation to their Christian education. By J.F. and R.S.</title>
+                  <author>Field, John, 1652-1723.</author>
+                  <author>Scoryer, Richard, 1648?-1715.</author>
+               </titleStmt>
+               <extent>[6], 17 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 10 signed: John Field; p. 17 signed: Richard Scoryer.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Education --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172615:1" rendition="simple:additions"/>
+            <p>FRIENDLY ADVICE In the SPIRIT of LOVE Unto Believing PARENTS, And their tender OFF-SPRING in Relation to their Chriſtian Education.</p>
+            <p>By <hi>J. F.</hi> and <hi>R. S.</hi>
+            </p>
+            <q>And ye Fathers, provoke not your Children to wrath, but bring them up in the Nurture and Admonition of the Lord, <bibl>
+                  <hi>Eph.</hi> 6. 4.</bibl>
+            </q>
+            <q>Children obey your Parents in the Lord, for this is right, <bibl>
+                  <hi>Eph.</hi> 6. 1.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year 1688.</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:172615:2"/>
+            <pb facs="tcp:172615:2"/>
+            <head>A ſhort Introductory Epiſtle unto Believing Parents.</head>
+            <p>THeſe following Lines preſented to your Peruſal, are not written out of any affectation to be ſeen in Print or deſire of becoming a <hi>Teacher</hi> or <hi>Inſtructor</hi> to others, but in un<g ref="char:EOLhyphen"/>feigned Love, a real good Will to you and all whom it may concern; and to ſtir up your pure minds by way of Remembrance, unto that Chriſtian Duty, and faithful diſ<g ref="char:EOLhyphen"/>charge thereof, which God Almighty hath laid upon and enjoyns us unto, ſo that we may with Joy give an Account unto Him who is the great Lord of all, at whoſe will we hold &amp; enjoy what ſoever we have that is good, and muſt therefore give an account to Him of our Stewardſhip, and receive a Reward from him accordingly; for our Gold, our Silver, and all our Subſtance we receive, it's He that lends it us. And therefore we
+<pb facs="tcp:172615:3"/>ought to be careful that none of it be im<g ref="char:EOLhyphen"/>ployed in any other ſervice but in His, (and whats with His good liking) for certainly thoſe that have the greateſt ſhare, ought not to waſt or ſpend any of it, to the gratifying of the luſt of the Eye, the luſt of the Fleſh, or pride of Life; becauſe theſe things are not of the Father, but of the World, and therefore are not in the leaſt to be Countenan<g ref="char:EOLhyphen"/>ced or Incouraged by any of Gods Children (whom he hath gathered out of the World) either in themſelves or their Children, which indeed are the Bleſſing of God, as a good Wife is his Gift, and the vine from whence they Spring, and they like Olive Plants ſhall ſit round about the Table of him that fears the Lord and walks in his Wales, yea, they ſhall inherit the earth But ſome that have made a wrong uſe of that plenty, God hath bleſt them with, have gratifyed a Mind and Spirit in their Off-ſpring that ſhould have been Curbed and kept under, whereby they have increaſed and grown up in that which after hath been a grief to their Parents and many others, and a great hurt to their ten<g ref="char:EOLhyphen"/>der Children; yea, ſome have been ſo
+<pb facs="tcp:172615:3"/>Cockered and fondly uſed, that when they have grown up, they have been ready to blame their Parents. Now this hath been for want of keeping in that pure and heavenly Wiſdom which is truly profitable to direct. And therefore my ſincere deſire and earneſt Prayer to Almighty God is, that we all wait upon the Lord, ſo that we may know him to guide us by his Counſel, and receive Wiſdom from Him, to bring up our Children in his fear, and what in us lies not only reprove them for evil, but reſtrain them from it (and all things that are of that kind and nature) and endeavor to train them up in that which teaches to hate Pride and Arrogancy (two Reigning Sins) and alſo every evilway, that ſo they and we may be heirs of the bleſ<g ref="char:EOLhyphen"/>ſing of Almighty God, and in the end that Crowns ad, lay down our heads in Peace, and reſt with Him for evermore, ſo wiſheth, and ſo prayeth your Friend.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172615:4"/>
+            <pb n="1" facs="tcp:172615:4"/>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <opener>
+                  <salute>Dear Friends,</salute>
+               </opener>
+               <p>HAving been for ſome years paſt Exer<g ref="char:EOLhyphen"/>ciſed in the Inſtruction and Educati<g ref="char:EOLhyphen"/>on of Children, I found a ſtir<g ref="char:EOLhyphen"/>ring in my heart, and a concern came over my Spirit in the Love of God, to wit as followeth.</p>
+               <p>The Lord (whom we may now call out God) hath been pleaſed to viſit us, with the viſitation of His tender Love, and by His Holy Arm and Divine Hand hath gathered, and is gathering a Remnant out of thoſe Wayes, Cuſtoms, Faſhions, Forms, and Worſhips, that are in the World that lies in wickedneſs (which we as well as others were once in) but now the Counſel of God in us, and unto us, is, that we touch not, neither taſt nor handle any of thoſe things, but be ſeparate from them, that the Lord may re<g ref="char:EOLhyphen"/>ceive us as His, being bought and purchaſed by Him; not with Gold nor with Salver, nor any Corruptible thing, but by the pretious blood of Chriſt who dyed and ſuffered for us.</p>
+               <pb n="2" facs="tcp:172615:5"/>
+               <p>And dear Friends, as we are thus called and gathered by the Lord from the Worlds Waies, Cuſtoms, Faſhions, Languages, and whatſoever is evil; ſo we no doubt ought to uſe our utmoſt endeavours to preſerve out Children and Off-ſpring out of them, and <hi>Reſtrain</hi> them from them, leſt they be cor<g ref="char:EOLhyphen"/>rupted with them, and their minds and af<g ref="char:EOLhyphen"/>fections ſet more upon them, then that Holy Way, Truth, and Profeſſion that every ho<g ref="char:EOLhyphen"/>neſt Friend in Truth deſires his Children and Off-ſpring may be Educated and trained up in; and bleſſed be the Lord that there is a Remnant that have received that Holy Un<g ref="char:EOLhyphen"/>ction which is able to teach them all things. And as its Teachings are kept to, learnt and followed will, lead out of ail that which of<g ref="char:EOLhyphen"/>fends the Lord and grieves his People, and is unbecoming our Holy Profeſſion, and that Plainneſs and Simplicity, which Truth now as formerly leads into, by which we and out Children have appeared unto the World a ſeparate People; not only from their Forms, Worſhips, and Religions, but their Language, fooliſh Faſhions, antick Dreſſes, ſuperfluous Apparel, and coſtly Array. And therefore dear Friends, as we have known the Judg<g ref="char:EOLhyphen"/>ments of God in our ſelves for theſe things, and through Judgment have known a being edeemed out of them; let not any of us
+<pb n="3" facs="tcp:172615:5"/>Countenance or Encourage any of our Chil<g ref="char:EOLhyphen"/>dren, or them we have the Government of in them. But take the Wiſe Mans Counſel and Advice, and labour in the love of God <hi>to train up our Children in the way they ſhould walk, that they may not depart from it when they are Old;</hi> but ſtand up and ſucceed us in a Teſtimony for the Lord His Way, Truth, and the true Chri<g ref="char:EOLhyphen"/>ſtian Profeſſion, and may manifeſtly be the trained up Schollars and true Diſciples of Him, in whom we have believed by their taking up their dayly Croſs, to all things contrary to the ſelf denying life of a true Chriſtian; that the <hi>Bleſſing of</hi> God which is the beſt <hi>Poſtion,</hi> and makes truly rich, may be upon them.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> A few words of tender Advice, and Counſel un<g ref="char:EOLhyphen"/>to the Children of believing Parents; exhort<g ref="char:EOLhyphen"/>ing them to Obedience according to Chriſts Ex<g ref="char:EOLhyphen"/>ample, and not to fimfy themſelves, but be lowly, and to fear God.</head>
+               <p>
+                  <hi>OH! remember your Creator in the daies of your Youth before the evil day come,</hi> and be ſubject to your Parents, in your tender years, as Chriſt our Lord was unto his accord<g ref="char:EOLhyphen"/>ing to the Fleſh, even at twelve years of Age; as ye read in the holy Scriptures: He was not
+<pb n="4" facs="tcp:172615:6"/>Stubborn nor Willful, he was not Heady nor high Minded, he luſted not after the Faſhions and Cuſtoms of the evil World, nor after gay Cloathing, nor rich Apparel; but in all things did the Will of His Heavenly Father that ſent him. Therefore take Him for your Example, and obey your Parents, and be ſubject to them in all things, that they Adviſe and Counſel you for your good, here and hereafter, for what will all the finery avail when you come to dye, and why ſhould any be ſo concerned to finifie a little Duſt and Aſhes or Houſe of Clay, which may fall in a mo<g ref="char:EOLhyphen"/>ment or twinkling of an Eye, and neglect chat which tends to their Souls everlaſting good.</p>
+               <p>Oh! therefore let me in treat you, to mind the holy fear of Almighty God, which will preſerve you out of theſe things, and have re<g ref="char:EOLhyphen"/>gard to the Holy Witneſs, Light, Grace, and Spirit of God in your own hearts, which will let you ſee that you ſhould not be Heady, High Minded, Willful, Surly, or Stubborn; but Meek, Lowly, Humble, and Submiſſive, and then you'l be 'liker Chriſt: But the Heady High Minded, Wild, Wanton, and Proud, they are like him that is the King o<g ref="char:EOLhyphen"/>ver all the Children of Pride, <hi>Job</hi> 41.34. And it was he that lead the Daughters of <hi>Zion</hi> into Haughtineſs, and taught them to walk with ſtretched forth Necks, and Wan<g ref="char:EOLhyphen"/>ton
+<pb n="5" facs="tcp:172615:6"/>Eyes, walking and mincing as they went; whereby the Lord was ſo diſpleaſed, as to threaten to ſmite with a Scab the Crown of the Daughter of <hi>Zion,</hi> and to diſcover their ſecret parts. But as you mind and have re<g ref="char:EOLhyphen"/>gard to the Light and good Spirit of God and learn of it, you will be taught to deny theſe things and be preſerved (as you abide in it) from ſaying any bad Words, telling any idle and falſe Stories, or ſpeaking any Untruths, altho it were to excuſe your ſelves: Oh! therefore I beſeech you have regard to it, do not diſpiſe it, nor quench the motions of it; and then you will be a Comfort to your Parents, a rejoycing to your Friends, and good Examples to other Children with whom you converſe or are among; and will cauſe the holy Truth to be well ſpoken of, and make the Profeſſion of it more to ſhine. But if you flight the Counſel of your tender Pa<g ref="char:EOLhyphen"/>rents, Tutors, and Friends, <hi>Remember</hi> a day of <hi>Calamity</hi> will come, and that you muſt one day appear before Him that will bring every work to Judgment with every ſecret thing, whether it be good, or whether it be evil; <hi>and for every idle Word you muſt give an Account in the day of Judgment,</hi> as Chriſt ſaid, <hi>Mat.</hi> 12.36. And if then thou art found of that Number, that have ſet at nought God Counſel immediately by his Spirit in
+<pb n="6" facs="tcp:172615:7"/>thy own heart, and inſtrumentally through thy Parents, Tutors, or Friends, and would not regard any of their Reproof, <hi>Then the Lord will mock at thy Calamity, and laugh when thy fear comes;</hi> when Diſtreſs and An<g ref="char:EOLhyphen"/>guiſh cometh upon thee, the Lord God Al<g ref="char:EOLhyphen"/>mighty therefore incline more and more the hearts of them (that are young and tender) unto him, and to ſtand in his awe and holy fear; that ſo you may lack no good thing, but may dayly know the Lord to lead you in His way, that you may find Reſt and Peace to your Souls Eternally, when ever it ſhall pleaſe the Lord to take you hence.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> An Exhortation to Children, tenderly Advi<g ref="char:EOLhyphen"/>ſing them to improve their pretious time, and to avoid the reading unprofitable Books, and telling idle Tales; as alſo, to read and learn the Holy Scripture according to the Exam<g ref="char:EOLhyphen"/>ples of Ancient Proteſtants.</head>
+               <p>ANd this is in my Mind, in much Love and Tenderneſs, by way of Counſel; fur<g ref="char:EOLhyphen"/>ther to add to you, who are the tender Off-ſpring of believing Parents, that you may be careful to improve your pretious time, which comes upon you with a ſilent foot, and
+<pb n="7" facs="tcp:172615:7"/>ſwiftly paſſes away. And therefore may out daies here be aptly compared to a Weavers Shuttle, and our Life to a Bubble in the Wa<g ref="char:EOLhyphen"/>ter, which ſuddainly riſes, and in a Moment is down and no more to be ſeen; ſo it may be ſaid of all Mankind, the young as well as they of riper years, they are here to day in a Mor<g ref="char:EOLhyphen"/>tal State, and to morrow may launch out ei<g ref="char:EOLhyphen"/>ther into Eternal Happineſs, or everlaſting Wo. And therefore let me intreat and per<g ref="char:EOLhyphen"/>ſwade you for your preſent good, and future happineſs, not to ſpend nor ſquander away your pretious time, in Wildneſs, Vanity, or Fooliſh Delights; neither in the Hearing, Tel<g ref="char:EOLhyphen"/>ling, or Reading any idle Tales, falſe Stories, lying Hiſtories, or fooliſh Verſes that tend not to any Godly Edifying, or informing your underſtandings in that which is good; but ra<g ref="char:EOLhyphen"/>ther to the filling your Minds with unprofitable matter, which often occaſions ſuch like Diſ<g ref="char:EOLhyphen"/>courſe, for out of the Abundance of the Heart the Mouth ſpeaks, and that commonly, which Peoples minds are moſt filled with, and taken up with all, that they moſtly talk of and diſcourſe about; let me therefore prevail with you frequently to Read the Holy Scrip<g ref="char:EOLhyphen"/>tures, and learn to ſay ſome Chapters thereof without looking on the Book. For the <hi>Wal<g ref="char:EOLhyphen"/>denſes</hi> who were a Religious People in their days, and great Sufferers for their Religion,
+<pb n="8" facs="tcp:172615:8"/>took more care to have their Children Read and learn the Holy Scriptures, then to gratifie their vain Minds, and Childiſh Humors; for in the Hiſtory of the <hi>Waldenſes,</hi> Book. 1. c. 5. <hi>P.</hi> 29. its ſaid as touching Erudition, <hi>Rai<g ref="char:EOLhyphen"/>nerius</hi> hath ſaid, that they teach their Children, yea, even their <hi>Daughters,</hi> the Epiſtles and the Goſpels.</p>
+               <p>
+                  <hi>Jacobus de Riberia</hi> ſaith, that they were ſo well inſtructed in the Scriptures, that he hath heard a plain Country-man repeat the Book of <hi>Job</hi> Word by word, and divers others that could perfectly repeat the whole New Teſtament. And indeed it is much better to ſpend your time thus, and will be more comfort to your honeſt Patents and rejoycing to your Friends, that heartily wiſh and pray for your Welfare, then to ſee you play it away in Wildneſs and Vanity, and letting out your minds and luſt<g ref="char:EOLhyphen"/>ings after the fooliſh faſhions and vain Cu<g ref="char:EOLhyphen"/>ſtoms of the World, which will never pro<g ref="char:EOLhyphen"/>cure any comfort to your tender Parents. Therefore once more I earneſtly intreat you in unfeigned love to relinquiſh, forſake, and deny your ſelves of thoſe things that tends to your hurt, and let not the ſubtil Enemy that lies in wait to Enſnare, Captivate, and draw away your minds from the Principal of Truth (the Light and Spirit of Chriſt in your hearts
+<pb n="9" facs="tcp:172615:8"/>and Conſciences) or prevail upon you with any of his ſuggeſtions, that ſuch an one doth ſo, or thus, and why may not I, and ſuch an one hath come to Meetings long, and is eſteem<g ref="char:EOLhyphen"/>ed an honeſt Friend, and he or ſhe wares this, ſpeaks that, or doth the other thing, and they ſhould be our Examples, and therefore why may not I. Theſe often are the ſuggeſtions of Satan, to draw and allure the minds of the young and tender from Truth in themſelves, and to ſtrengthen them in that which many times they know they ought not to do, and be<g ref="char:EOLhyphen"/>lieve would be better if they did not, and by theſe and ſuch like allurements of <hi>Satan,</hi> they are ſometimes drawn away to their own Souls hurt, and grief of their tender Parents and Friends. And therefore lend not an Ear to him herein, for Satans deſign is only to draw thee into and continue thee in Sin, that thou might be hardened againſt God, the reproof of his Spirit in thy heart, and the reprooſ and Counſel of thy Friends and tender Parents, and you may read the fearful portion of ſuch, <hi>Prov.</hi> 29. 1. But if thou ſtand in awe of God, and abides in his fear, thou wilt be preſerved out of theſe and all evil things, and will be taught to deny them, and wilt receive Wiſdom from God, who is the fountain of it, to order thy Affairs with diſcretion, and will learn by it to honour thy Father and thy Mother accord<g ref="char:EOLhyphen"/>ing
+<pb n="10" facs="tcp:172615:9"/>to Gods Command; to be ſubject to your Tutors, reſpectful to your Elders, loving to your Friends and Companions, and this will cloſe that evil Eye Which Satan is ready to open in you, to look at this thing in one, and that in another, and to make an ill uſe thereof. And therefore live in Gods fear that preſerves you out of theſe things and you will have Gods bleſſing, obtain his Favour, feel his Preſence, be ſervants in his Houſe, yea, heirs of his King<g ref="char:EOLhyphen"/>dom, and inheritors among the Saints in Light, and receivers of a weighty Crown of Glory, as ye live and dye in Gods fear. And therefore this is the ſumm and concluſion of the whole matter, as <hi>Solomon</hi> ſaid, <hi>fear God and keep his Commandments, for this is the whole Duty of Man.</hi> So in that true love and tenderneſs in which I began, I ſhall conclude with hearty deſires, that you all may love and imbrace that good Spirit of God in your own hearts, that inclines to love Vertue, Temperance, Meekneſs, Gentleneſs, Humility, and the fear of God; and will if you'l love and obey it bring forth in you the fruits of his Spirit which is in all goodneſs; and then you'l not reject this Counſel and Advice of him who is your real and allured Friend,</p>
+               <closer>
+                  <signed>John Field.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="11" facs="tcp:172615:9"/>
+            <head>POSTSCRIPT.</head>
+            <p>ANd to ſhew that it hath been the care of reputed Heathens, as well as Chriſtians, that their Children might be well Educated, and gave their Advice accordingly. Take theſe following Inſtances.</p>
+            <p>
+               <hi>Plutarch</hi> a Heathen School-Maſter to the Emperiour of <hi>Trajan,</hi> in his Book concerning the Education of Children, before he proceeds to many good precepts for the vertuous Edu<g ref="char:EOLhyphen"/>cation of Youth more grown up, Adviſes that even Nurſes retrain from telling Children Fa<g ref="char:EOLhyphen"/>bles.</p>
+            <p>And <hi>Phocylides</hi> (alſo inſtanced by him) ſaies, that one ought to teach one even when a Child, things that are good. Hiſtory <hi>Wal<g ref="char:EOLhyphen"/>den.</hi> Book 1. of their Doctrine, c. 3. p. 22. We muſt ſerve our Fathers and Mothers with all out Power, never debatinging or queſtion with them with hard and bitter Speeches; but we muſt anſwer them humbly, and hearken lov<g ref="char:EOLhyphen"/>ingly to their Reprehenſions; we muſt likewiſe honour them by Adminiſtring unto them things neceſſary for this Life. For Fathers and Mothers have nouriſhed their Children with their own Fleſh their proper ſubſtance; and Children nouriſh their Parents with that which is without their fleſh, being impoſſible they
+<pb n="12" facs="tcp:172615:10"/>ſhould reſtore to them thoſe benifits they have received of them. And touching the Inſtru<g ref="char:EOLhyphen"/>ction we have received of our Parents, we muſt obey them in whatſoever ſhall tend to our Salvation, and to a good end.</p>
+            <p>And p. 38. of the ſame Book, a certain learned Father ſaith, that coſtly Apparel, Su<g ref="char:EOLhyphen"/>perfluity in Diet, Flay, Idleneſs, and Sleep, fatten the Body, nouriſh Luxury, weaken the Spirit, and lead the Soul into death. And therefore they commend a ſpare Diet, Labour, ſhort Sleep, and poor Garments.</p>
+            <p>Oh! that all People and Children, and e<g ref="char:EOLhyphen"/>ſpecially, thoſe that profeſs the Holy Truth, would follow the good Counſel and take the wholſeſome advice of theſe People, who were under ſuch a Godly care for their tender Of<g ref="char:EOLhyphen"/>fering. Surely, I may ſay of them they would not adorn their Daughters with Gold, or put them on Gold Chains, nor their Sons into ſlanting curled Periwiggs, who gave this Chriſtian Adviſe; which indeed, that Truth which Almighty God hath bleſſed a Rem<g ref="char:EOLhyphen"/>nant with the knowledg of anſwers unto, and will no doubt lead all them that heartily love and ſaithfully follow it, into that <hi>Plainneſs</hi> which <hi>becomes</hi> them that are of <hi>Jacobs</hi> (the Plain Mans ſeed) and preſerve every ſuch one from going into (or practiſing) thoſe things that the unchangeable Spirit of God,
+<pb n="13" facs="tcp:172615:10"/>in and through the Apoſtle of Chriſt adviſed unto, as in 1 <hi>Pet.</hi> 3. 3, 4.</p>
+            <p>
+               <hi>Dear Friends,</hi>
+            </p>
+            <p>MY ſincere deſire and earneſt breathing unto God hath been, is, and I hope ever ſhall be, that we may every one both Male and Female of all degrees, who have re<g ref="char:EOLhyphen"/>ceived the Truth in the love of it, encreaſe in faithful obedience unto the ſame, ſo ſhall our ſtrength in the in ward man be renewed, and our underſtanding more and more divinely opened, and kept open: by which we ſhall be in a fit Capacity to ſee and diſcern the deep workings of the Miſtery of Iniquity at all times, who is not wanting now in a ſeaſon of outward Liberty to uſe his endeavours to draw forth the mind from its inward retirements and conſtant watchings in the Spirit, Light and Life, which we have in Meaſure received from the Father of Lights, into a <hi>careleſs eaſeful</hi> ſtate to whom the wo is, and a ſtanding idle in this day to loſe our <hi>reward.</hi>
+            </p>
+            <p>Now this I can truly ſay, that the Lords Arm of Power is not ſhortned that it cannot ſave, but as we have known it revealed for our de<g ref="char:EOLhyphen"/>liverance, and have in Meaſure witneſſed Sal<g ref="char:EOLhyphen"/>vation by it; ſo it is the ſame now as ever it was, ready and able to preſerve the mind, and
+<pb n="14" facs="tcp:172615:11"/>keep it out of the ſnares which the Enemy li<g ref="char:EOLhyphen"/>eth to catch us in.</p>
+            <p>But this Principally I have to ſignifie, that the Enemy is not contented to ſeek our hurt a<g ref="char:EOLhyphen"/>lone, but alſo he hath a deep deſign upon our tender Children the Off-ſpring of our Bodies, endeavouring to corrupt them by drawing forth their Minds after the Vanity and Folly, Cuſtoms, and Faſhions that is found without in the World that lieth in Wickedneſs, that ſo he may thereby harden their hearts, and turn them againſt the appearance of Truth within themſelves; that ſo the holy ſeed which God hath ſown, may not ſpring up in them to prepare them in their tender years, as Veſ<g ref="char:EOLhyphen"/>ſels for the Lords own uſe, nor to know and remember the God of their Fathers, and that they may not ſucceed them as true Heirs of the bleſſings of the moſt High, nor be faith<g ref="char:EOLhyphen"/>full witneſſes in their Generation, in a Holy Life and Converſation.</p>
+            <p>Of this I am deeply ſenſible, and have more then an Ordinary exerciſe for the youth of our time, becauſe of which I am drawn forth in Bowels of tender love, earneſtly to intreat and beſeech all believing Parents to put too their help, as the Lord ſhall enable (who is ready and willing as we breath to him) with might and power to work againſt this Enemy, and endeavour to undermine his wicked deſigns.
+<pb n="15" facs="tcp:172615:11"/>Firſt, in being good Examples of Vertue and Piety to our tender Children, and ſhuning e<g ref="char:EOLhyphen"/>very appearance that tends to the contrary. And ſecondly, not to be overcome with an extream of love or fondneſs, becauſe thereby (many times, and too often) ſuch things are overlookt and paſt by, which in the very bud, ought rather to be diſcountenanced with re<g ref="char:EOLhyphen"/>proof or correction, as tending to the ſtrength<g ref="char:EOLhyphen"/>ening of the Enemy in his wicked deſigns as above mentioned.</p>
+            <p>Oh that there were not cauſe for me to break forth into a Lamentation for the ſake of many poor Children, who are hurt through their Parents extream love or fooliſh fondneſs over them; but Oh! my Soul hath and doth la<g ref="char:EOLhyphen"/>ment over them. Saying, if there be any Truth in this Proveth, [that it is poſſible to kill with kindneſs] I am ſure (with grief do I mention it) that many tender Children are like to be diſtroyed by this extream Fondneſs from their fond Parents, except it be prevent<g ref="char:EOLhyphen"/>ed by a timely Moderation.</p>
+            <p>And ſure, I am the Lord is diſpleaſed with ſuch Parents whoever they are, whether Rich or Poor, for he is no reſpecter of Perſons; for tho this Proverb ſhall be no more uſed, <hi>Jer.</hi> 31. v 29, 30. <hi>In thoſe days they ſhall ſay no more, the Fathers have eaten ſower Grapes, and the Chil<g ref="char:EOLhyphen"/>drens Teeth are ſet on Edg; But every one ſhall
+<pb n="16" facs="tcp:172615:12"/>dye for his own iniquity, every man that eateth the ſower Grapes, his Teeth ſhall be ſet on Edg.</hi>
+            </p>
+            <p>Yet where Parents through neglect of their duty of being good Examples to their Chil<g ref="char:EOLhyphen"/>dren in a holy life and Converſation, in the fear of God to give good Counſel, and inſtruct their Children in that which is good, and en<g ref="char:EOLhyphen"/>couraging them therein; warning them of evil, reproving them and correcting for the ſame. I ſay, where Parents are thus negli<g ref="char:EOLhyphen"/>gent of their Duty to their tender Children, the Enemy doth prevail and bring to paſs his deſigns, leads them down to the Chambers of Death and Darkneſs, where the <hi>Wo</hi> and <hi>Mi<g ref="char:EOLhyphen"/>ſery</hi> is; the blood of ſuch Children will be re<g ref="char:EOLhyphen"/>quired at their hands, <hi>Eze.</hi> 3.18. <hi>When I ſay unto the Wicked, thou ſhalt ſurely die, and thou giveſt him not warning, nor ſpeakeſt to warn the Wicked from his wicked way, to ſave his life, the ſame Wicked Man ſhall dye in his Iniquity, but his blood will I require at thine hand.</hi>
+            </p>
+            <p>But when Parents performs their Duty towards their Children, by letting their Light ſhine forth before them in a Holy Life and Converſation, not ſparing good Counſel and Inſtruction in that which is good, warn<g ref="char:EOLhyphen"/>ing and correcting them for Evil; yet not<g ref="char:EOLhyphen"/>withſtanding, their Children turns their back on the good Counſel, and perſiſt in their Ini<g ref="char:EOLhyphen"/>quity, and turns not from it, they ſhall dy
+<pb n="17" facs="tcp:172615:12"/>therein, and their blood ſhall lie at their own Doors, and their Parents ſhall be clear, <hi>Eze.</hi> 3.19. <hi>Yet if thou warn the Wicked, and he turn not from his Wickedneſs, not from his Wicked way, he ſhall dye in hit Iniquity, but thou haſt delivered thy So<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <closer>
+               <signed>From one that hath an ex<g ref="char:EOLhyphen"/>erciſe in body and ſpirit, for the ſake of ſuch Pa<g ref="char:EOLhyphen"/>rents and Children as cauſe the Truth to ſuffer in themſelves and others, becauſe of their unduti<g ref="char:EOLhyphen"/>fulneſs to God and each other. Richard Scoryer.</signed>
+               <dateline>
+                  <hi>Wanſworth</hi> 
+                  <date>the 15th. 7th. Month, 88.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
